@@ -58,13 +58,13 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Calificaciones",
+          "href": "https://israelcueva.mintlify.app/calificaciones",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
+          "anchor": "Calendarización",
+          "href": "https://israelcueva.mintlify.app/calendarizacion",
           "icon": "slack"
         },
         {
