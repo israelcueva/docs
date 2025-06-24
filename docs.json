@@ -68,9 +68,9 @@
           "icon": "calendar"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Proyectos",
+          "href": "https://israelcueva.mintlify.app/proyectos",
+          "icon": "briefcase"
         }
       ]
     }
