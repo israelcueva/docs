@@ -46,7 +46,7 @@
           {
             "group": "Semanas",
             "pages": [
-              "aulas/6-primaria/1B/U3/2BS01",
+              "aulas/6-primaria/3B/U3/3BS01",
               "api-reference/endpoint/create",
               "api-reference/endpoint/delete",
               "api-reference/endpoint/webhook"
