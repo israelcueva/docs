@@ -14,22 +14,22 @@
         "tab": "Principal",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Principal",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "calificaciones",
+              "calendarizacion"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Aulas",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "aulas/6-primaria/inicio",
+              "aulas/1-secundaria/inicio",
+              "aulas/2-secundaria/inicio",
+              "aulas/3-secundaria/inicio",
+              "aulas/4-secundaria/inicio",
+              "aulas/5-secundaria/inicio"
             ]
           }
         ]
@@ -40,16 +40,14 @@
           {
             "group": "Inicio",
             "pages": [
-              "aulas/6-primaria/inicio"
+              "aulas/6-primaria/inicio",
+              "aulas/6-primaria/proyecto"
             ]
           },
           {
-            "group": "Semanas",
+            "group": "3B - Unidad 5",
             "pages": [
-              "aulas/6-primaria/3B/U3/3BS01",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "aulas/6-primaria/3B/U5/3BS01"
             ]
           }
         ]
