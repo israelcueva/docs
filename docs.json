@@ -35,18 +35,18 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "6P",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Inicio",
             "pages": [
-              "api-reference/introduction"
+              "aulas/6-primaria/index"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Semanas",
             "pages": [
-              "api-reference/endpoint/get",
+              "aulas/6-primaria/1B/U3/2BS01",
               "api-reference/endpoint/create",
               "api-reference/endpoint/delete",
               "api-reference/endpoint/webhook"
